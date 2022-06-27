@@ -1,0 +1,43 @@
+* {
+    font-size: 14px;
+}
+.container {
+    width: 700px;
+    margin: 0 auto;
+}
+
+.col-left {
+    width: 180px;
+    float: left;
+}
+
+.col-mid {
+    width: 340px;
+    float: left;
+}
+
+.col-right {
+    width: 180px;
+    float: left;
+}
+
+.clear {
+    clear: both;
+}
+
+h1 {
+    text-align: center;
+    font-size: 1.7em;
+}
+
+h2 {
+    text-align: center;
+    font-size: 1.2em;
+}
+
+.footer {
+    margin-top: 50px;
+    padding-top: 10px;
+    text-align: center;
+    border-top: 1px black solid;
+}
